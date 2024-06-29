@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #333;
+    color: #eee;
+}
+
+.container{
+    max-width: 800px;
+    margin: auto 0;
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.brands{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+.icons{
+    font-size: 10px;
+}
